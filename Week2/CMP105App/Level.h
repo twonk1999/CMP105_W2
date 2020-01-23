@@ -23,6 +23,8 @@ private:
 	// Default variables for level class.
 	sf::RenderWindow* window;
 	Input* input;
+	sf::Text text;
+	sf::Font font;
 
 	// Add your object here
 
